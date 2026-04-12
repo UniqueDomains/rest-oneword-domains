@@ -1,22 +1,22 @@
-# Available .REST One-Word Domains (5,621,968)
+# Available .REST One-Word Domains (9,240)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C236%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C968%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C246%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C240%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .rest one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .rest one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,236-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,968 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,236 rows · **Live catalog:** 5,621,968 domains
+**Public extract:** 9,246 rows · **Live catalog:** 9,240 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/rest`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .REST one-word domain 
 
 ### Files
 
-- `rest.csv` — public CSV extract (9,236 rows)
-- `rest.json` — public JSON extract (9,236 rows)
+- `rest.csv` — public CSV extract (9,246 rows)
+- `rest.json` — public JSON extract (9,246 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -75,15 +75,15 @@ print(df.head())
 | power.rest      | premium   | $585      | $1,170        | 98             | 62     | 5      | namecheap       |
 | unify.rest      | available | $41.98    | —             | 72             | 38     | 5      | namecheap       |
 | line.rest       | resell    | —         | —             | 74             | 68     | 4      | Spaceship, Inc. |
-| data.rest       | premium   | $1,462.50 | $2,925        | 70             | 60     | 4      | namecheap       |
+| ace.rest        | premium   | $819      | $1,170        | 88             | 57     | 3      | namecheap       |
 | conscious.rest  | available | $41.98    | —             | 89             | 37     | 9      | namecheap       |
 | jesus.rest      | resell    | —         | —             | 126            | 52     | 5      | Dynadot, LLC    |
-| ace.rest        | premium   | $819      | $1,170        | 88             | 57     | 3      | namecheap       |
+| live.rest       | premium   | $4,095    | $5,850        | 108            | 56     | 4      | namecheap       |
 | rank.rest       | available | $41.98    | —             | 70             | 35     | 4      | namecheap       |
-| root.rest       | resell    | —         | —             | 64             | 50     | 4      | Spaceship, Inc. |
-| live.rest       | premium   | $4,095    | $5,850        | 108            | 55     | 4      | namecheap       |
-| progress.rest   | available | $41.98    | —             | 82             | 34     | 8      | namecheap       |
 | air.rest        | resell    | —         | —             | 84             | 49     | 3      | Spaceship, Inc. |
+| data.rest       | premium   | $1,462.50 | $2,925        | 70             | 56     | 4      | namecheap       |
+| progress.rest   | available | $41.98    | —             | 82             | 34     | 8      | namecheap       |
+| root.rest       | resell    | —         | —             | 64             | 49     | 4      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,236-row public sample | 5,621,968 live domains                           |
+| 9,246-row public sample | 9,240 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REST One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REST One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
