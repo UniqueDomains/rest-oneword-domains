@@ -1,22 +1,22 @@
-# Available .REST One-Word Domains (9,246)
+# Available .REST One-Word Domains (11,714)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C245%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C246%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C714%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .rest one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,245-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,246 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,714 domains** on the canonical page below.
 
-**Public extract:** 9,245 rows · **Live catalog:** 9,246 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,714 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/rest`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .REST one-word domain 
 
 ### Files
 
-- `rest.csv` — public CSV extract (9,245 rows)
-- `rest.json` — public JSON extract (9,245 rows)
+- `rest.csv` — public CSV extract (1,000 rows)
+- `rest.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| nationwide.rest | available | $41.98    | —             | 76             | 66     | 10     | namecheap       |
-| elderly.rest    | resell    | $41.98    | —             | 94             | 11     | 7      | GoDaddy         |
-| apple.rest      | premium   | $177.68   | —             | 88             | 88     | 5      | name.com        |
-| seventeen.rest  | available | $41.98    | —             | 84             | 62     | 9      | namecheap       |
-| checkout.rest   | resell    | —         | —             | 68             | 79     | 9      | Dynadot, LLC    |
-| easy.rest       | premium   | $819      | $1,170        | 128            | 62     | 4      | namecheap       |
-| athletics.rest  | available | $41.98    | —             | 69             | 52     | 9      | namecheap       |
-| prompt.rest     | resell    | —         | —             | 114            | 68     | 6      | Porkbun LLC     |
-| power.rest      | premium   | $585      | $1,170        | 98             | 62     | 5      | namecheap       |
-| unify.rest      | available | $41.98    | —             | 72             | 38     | 5      | namecheap       |
-| line.rest       | resell    | —         | —             | 74             | 68     | 4      | Spaceship, Inc. |
-| ace.rest        | premium   | $819      | $1,170        | 88             | 57     | 3      | namecheap       |
-| conscious.rest  | available | $41.98    | —             | 89             | 37     | 9      | namecheap       |
-| jesus.rest      | resell    | —         | —             | 126            | 52     | 5      | Dynadot, LLC    |
-| live.rest       | premium   | $4,095    | $5,850        | 108            | 56     | 4      | namecheap       |
-| progress.rest   | available | $41.98    | —             | 82             | 34     | 8      | namecheap       |
-| air.rest        | resell    | —         | —             | 84             | 49     | 3      | Spaceship, Inc. |
-| data.rest       | premium   | $1,462.50 | $2,925        | 70             | 56     | 4      | namecheap       |
-| rank.rest       | available | $41.98    | —             | 70             | 34     | 4      | namecheap       |
-| root.rest       | resell    | —         | —             | 64             | 49     | 4      | Spaceship, Inc. |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| makers.rest      | available | $2.19     | $28.99        | 62             | 67     | 6      | namesilo  |
+| crystal.rest     | resell    | —         | —             | 70             | 37     | 7      | GoDaddy   |
+| donuts.rest      | premium   | $393.75   | —             | 54             | 62     | 6      | name.com  |
+| Skype.rest       | available | $41.98    | —             | 86             | 65     | 5      | namecheap |
+| jobs.rest        | premium   | $787.50   | —             | 79             | 42     | 4      | name.com  |
+| spaces.rest      | available | $19.99    | —             | 54             | 30     | 6      | name.com  |
+| Tools.rest       | premium   | $88.20    | $126          | 56             | 40     | 5      | namecheap |
+| blocks.rest      | available | $19.99    | —             | 53             | 29     | 6      | name.com  |
+| matcha.rest      | premium   | $393.75   | —             | 86             | 39     | 6      | name.com  |
+| gems.rest        | available | $2.19     | $28.99        | 70             | 28     | 4      | namesilo  |
+| solutions.rest   | premium   | $157.50   | —             | 56             | 31     | 9      | name.com  |
+| bees.rest        | available | $19.99    | —             | 54             | 27     | 4      | name.com  |
+| inspiration.rest | premium   | $393.75   | —             | 88             | 30     | 11     | name.com  |
+| traders.rest     | available | $19.99    | —             | 60             | 26     | 7      | name.com  |
+| videos.rest      | premium   | $787.50   | —             | 52             | 30     | 6      | name.com  |
+| Trex.rest        | available | $41.98    | —             | 80             | 24     | 5      | namecheap |
+| systems.rest     | premium   | $393.75   | —             | 46             | 27     | 7      | name.com  |
+| whats.rest       | available | $2.19     | $28.99        | 58             | 24     | 5      | namesilo  |
+| doctors.rest     | premium   | $1,968.75 | —             | 56             | 26     | 7      | name.com  |
+| reports.rest     | available | $19.99    | —             | 58             | 24     | 7      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,245-row public sample | 9,246 live domains                               |
+| 1,000-row public sample | 11,714 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REST One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REST One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
