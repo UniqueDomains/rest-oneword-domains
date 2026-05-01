@@ -1,10 +1,10 @@
-# Available .REST One-Word Domains (11,714)
+# Available .REST One-Word Domains (12,159)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C714%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C159%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .rest one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,714 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,159 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,714 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,159 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/rest`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| makers.rest      | available | $2.19     | $28.99        | 62             | 67     | 6      | namesilo  |
-| crystal.rest     | resell    | —         | —             | 70             | 37     | 7      | GoDaddy   |
-| donuts.rest      | premium   | $393.75   | —             | 54             | 62     | 6      | name.com  |
-| Skype.rest       | available | $41.98    | —             | 86             | 65     | 5      | namecheap |
-| jobs.rest        | premium   | $787.50   | —             | 79             | 42     | 4      | name.com  |
-| spaces.rest      | available | $19.99    | —             | 54             | 30     | 6      | name.com  |
-| Tools.rest       | premium   | $88.20    | $126          | 56             | 40     | 5      | namecheap |
-| blocks.rest      | available | $19.99    | —             | 53             | 29     | 6      | name.com  |
-| matcha.rest      | premium   | $393.75   | —             | 86             | 39     | 6      | name.com  |
-| gems.rest        | available | $2.19     | $28.99        | 70             | 28     | 4      | namesilo  |
-| solutions.rest   | premium   | $157.50   | —             | 56             | 31     | 9      | name.com  |
-| bees.rest        | available | $19.99    | —             | 54             | 27     | 4      | name.com  |
-| inspiration.rest | premium   | $393.75   | —             | 88             | 30     | 11     | name.com  |
-| traders.rest     | available | $19.99    | —             | 60             | 26     | 7      | name.com  |
-| videos.rest      | premium   | $787.50   | —             | 52             | 30     | 6      | name.com  |
-| Trex.rest        | available | $41.98    | —             | 80             | 24     | 5      | namecheap |
-| systems.rest     | premium   | $393.75   | —             | 46             | 27     | 7      | name.com  |
-| whats.rest       | available | $2.19     | $28.99        | 58             | 24     | 5      | namesilo  |
-| doctors.rest     | premium   | $1,968.75 | —             | 56             | 26     | 7      | name.com  |
-| reports.rest     | available | $19.99    | —             | 58             | 24     | 7      | name.com  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| makers.rest      | available | $2.19     | $28.99        | 62             | 67     | 6      | namesilo        |
+| iconic.rest      | resell    | —         | —             | 76             | 38     | 6      | Spaceship, Inc. |
+| jobs.rest        | premium   | $787.50   | —             | 79             | 42     | 4      | name.com        |
+| Skype.rest       | available | $41.98    | —             | 86             | 65     | 5      | namecheap       |
+| crystal.rest     | resell    | —         | —             | 70             | 37     | 7      | GoDaddy         |
+| matcha.rest      | premium   | $393.75   | —             | 86             | 39     | 6      | name.com        |
+| spaces.rest      | available | $19.99    | —             | 54             | 30     | 6      | name.com        |
+| cams.rest        | resell    | —         | —             | 52             | 29     | 4      | NAMECHEAP       |
+| solutions.rest   | premium   | $157.50   | —             | 56             | 31     | 9      | name.com        |
+| gems.rest        | available | $2.19     | $28.99        | 70             | 28     | 4      | namesilo        |
+| inspiration.rest | premium   | $393.75   | —             | 88             | 30     | 11     | name.com        |
+| bees.rest        | available | $19.99    | —             | 54             | 27     | 4      | name.com        |
+| systems.rest     | premium   | $393.75   | —             | 46             | 27     | 7      | name.com        |
+| traders.rest     | available | $19.99    | —             | 60             | 26     | 7      | name.com        |
+| doctors.rest     | premium   | $1,968.75 | —             | 56             | 26     | 7      | name.com        |
+| gamers.rest      | available | $2.19     | $28.99        | 62             | 24     | 6      | namesilo        |
+| toys.rest        | premium   | $78.75    | —             | 60             | 24     | 4      | name.com        |
+| whats.rest       | available | $2.19     | $28.99        | 58             | 24     | 5      | namesilo        |
+| coupons.rest     | premium   | $787.50   | —             | 52             | 24     | 7      | name.com        |
+| reports.rest     | available | $19.99    | —             | 58             | 24     | 7      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,714 live domains                              |
+| 1,000-row public sample | 12,159 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REST One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REST One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
