@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .rest one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,161 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,161 domains · **Median ask:** $58.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,161 domains · **Median ask:** $77.33 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/rest`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| Acup.rest     | available | $41.98    | —             | 80             | 5      | 5      | namecheap       |
-| might.rest    | premium   | —         | —             | 80             | 13     | 5      | —               |
-| Skype.rest    | available | $41.98    | —             | 86             | 66     | 5      | namecheap       |
-| geton.rest    | available | $19.99    | —             | 82             | 10     | 6      | name.com        |
-| edamame.rest  | available | $2.19     | $28.99        | 80             | 9      | 7      | namesilo        |
-| playon.rest   | available | $19.99    | —             | 80             | 14     | 7      | name.com        |
-| QandA.rest    | available | $41.98    | —             | 80             | 10     | 7      | namecheap       |
-| toneup.rest   | available | $19.99    | —             | 80             | 5      | 7      | name.com        |
-| hangon.rest   | available | $19.99    | —             | 82             | 6      | 7      | name.com        |
-| dogsick.rest  | available | $19.99    | —             | 90             | 1      | 7      | name.com        |
-| getlife.rest  | available | $19.99    | —             | 80             | 5      | 8      | name.com        |
-| leaveon.rest  | available | $19.99    | —             | 80             | 1      | 8      | name.com        |
-| Snickers.rest | available | $41.98    | —             | 80             | 10     | 8      | namecheap       |
-| makers.rest   | available | $2.19     | $28.99        | 62             | 67     | 6      | namesilo        |
-| iconic.rest   | resell    | —         | —             | 76             | 38     | 6      | Spaceship, Inc. |
-| jobs.rest     | premium   | $787.50   | —             | 79             | 42     | 4      | name.com        |
-| crystal.rest  | resell    | —         | —             | 70             | 37     | 7      | GoDaddy         |
-| matcha.rest   | premium   | $393.75   | —             | 86             | 39     | 6      | name.com        |
-| spaces.rest   | available | $19.99    | —             | 54             | 30     | 6      | name.com        |
-| cams.rest     | resell    | —         | —             | 52             | 29     | 4      | NAMECHEAP       |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| prenatal.rest   | available | $19.99    | —             | 88             | 7      | 8      | name.com  |
+| guess.rest      | available | $19.99    | —             | 100            | 70     | 5      | name.com  |
+| rubber.rest     | available | $19.99    | —             | 105            | 17     | 6      | name.com  |
+| absorbable.rest | available | $34.98    | —             | 80             | 1      | 10     | namecheap |
+| impact.rest     | available | $19.99    | —             | 92             | 74     | 6      | name.com  |
+| plus.rest       | premium   | $78.75    | —             | 116            | 39     | 4      | name.com  |
+| aesthetic.rest  | available | $2.19     | $28.99        | 88             | 31     | 9      | namesilo  |
+| fantasy.rest    | premium   | —         | —             | 98             | 25     | 7      | —         |
+| lesson.rest     | available | $2.19     | $28.99        | 98             | 14     | 6      | namesilo  |
+| sudden.rest     | available | $2.19     | $28.99        | 90             | 11     | 6      | namesilo  |
+| lace.rest       | available | $2.19     | $28.99        | 98             | 17     | 4      | namesilo  |
+| kleenex.rest    | available | $2.19     | $28.99        | 89             | 7      | 7      | namesilo  |
+| climate.rest    | premium   | $393.75   | —             | 94             | 39     | 7      | name.com  |
+| mid.rest        | premium   | $78.75    | —             | 80             | 25     | 3      | name.com  |
+| topic.rest      | available | $2.19     | $28.99        | 90             | 20     | 5      | namesilo  |
+| transfer.rest   | premium   | —         | —             | 88             | 27     | 8      | —         |
+| front.rest      | available | $2.19     | $28.99        | 118            | 23     | 5      | namesilo  |
+| candidate.rest  | available | $2.19     | $28.99        | 99             | 17     | 9      | namesilo  |
+| improve.rest    | premium   | $393.75   | —             | 88             | 26     | 7      | name.com  |
+| consummate.rest | available | $2.19     | $28.99        | 88             | 2      | 10     | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REST One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REST One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
