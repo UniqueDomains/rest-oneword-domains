@@ -1,10 +1,10 @@
-# Available .REST One-Word Domains (12,162)
+# Available .REST One-Word Domains (12,176)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C162%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C176%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .rest one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,162 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,176 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,162 domains · **Median ask:** $77.18 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,176 domains · **Median ask:** $69.21 · **High-demand under $2,500:** 13
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/rest`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                           |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------- |
-| HBO.rest     | available | $2.19     | $28.99        | high           | medium | 3      | namesilo                            |
-| lawyer.rest  | resell    | $19.99    | —             | medium         | low    | 6      | NAMECHEAP                           |
-| ADS.rest     | premium   | $787.50   | —             | high           | medium | 3      | name.com                            |
-| led.rest     | available | $2.19     | $28.99        | high           | low    | 3      | namesilo                            |
-| ball.rest    | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                     |
-| arm.rest     | premium   | $3,937.50 | —             | high           | medium | 3      | name.com                            |
-| RGB.rest     | available | $2.19     | $28.99        | medium         | low    | 3      | namesilo                            |
-| rich.rest    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                     |
-| boy.rest     | premium   | $393.75   | —             | medium         | low    | 3      | name.com                            |
-| sue.rest     | available | $2.19     | $28.99        | high           | low    | 3      | namesilo                            |
-| rose.rest    | resell    | —         | —             | high           | medium | 4      | GMO Internet, Inc. d/b/a Onamae.com |
-| egg.rest     | premium   | $1,968.75 | —             | high           | low    | 3      | name.com                            |
-| tub.rest     | available | $2.19     | $28.99        | high           | low    | 3      | namesilo                            |
-| shell.rest   | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.                     |
-| end.rest     | premium   | $1,968.75 | —             | high           | low    | 3      | name.com                            |
-| xvi.rest     | available | $2.19     | $28.99        | medium         | low    | 3      | namesilo                            |
-| moment.rest  | resell    | —         | —             | high           | low    | 6      | GMO Internet, Inc. d/b/a Onamae.com |
-| gay.rest     | premium   | $787.50   | —             | high           | medium | 3      | name.com                            |
-| bare.rest    | available | $2.19     | $28.99        | medium         | low    | 4      | namesilo                            |
-| freedom.rest | resell    | —         | —             | high           | medium | 7      | Spaceship, Inc.                     |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                           |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------- |
+| here.rest   | premium   | $393.75   | —             | high           | medium | 4      | name.com                            |
+| clv.rest    | available | $1.80     | $41.98        | low            | low    | 3      | namecheap                           |
+| lawyer.rest | resell    | $19.99    | —             | medium         | low    | 6      | NAMECHEAP                           |
+| ADS.rest    | premium   | $787.50   | —             | high           | medium | 3      | name.com                            |
+| HBO.rest    | available | $2.19     | $28.99        | high           | medium | 3      | namesilo                            |
+| ball.rest   | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                     |
+| arm.rest    | premium   | $3,937.50 | —             | high           | medium | 3      | name.com                            |
+| led.rest    | available | $2.19     | $28.99        | high           | low    | 3      | namesilo                            |
+| rich.rest   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                     |
+| boy.rest    | premium   | $393.75   | —             | medium         | low    | 3      | name.com                            |
+| RGB.rest    | available | $2.19     | $28.99        | medium         | low    | 3      | namesilo                            |
+| rose.rest   | resell    | —         | —             | high           | medium | 4      | GMO Internet, Inc. d/b/a Onamae.com |
+| egg.rest    | premium   | $1,968.75 | —             | high           | low    | 3      | name.com                            |
+| sue.rest    | available | $2.19     | $28.99        | high           | low    | 3      | namesilo                            |
+| shell.rest  | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.                     |
+| end.rest    | premium   | $1,968.75 | —             | high           | low    | 3      | name.com                            |
+| tub.rest    | available | $2.19     | $28.99        | high           | low    | 3      | namesilo                            |
+| moment.rest | resell    | —         | —             | high           | low    | 6      | GMO Internet, Inc. d/b/a Onamae.com |
+| gay.rest    | premium   | $787.50   | —             | high           | medium | 3      | name.com                            |
+| xvi.rest    | available | $2.19     | $28.99        | medium         | low    | 3      | namesilo                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,162 live domains                        |
+| 1,000-row public sample | 12,176 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 13 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REST One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REST One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
