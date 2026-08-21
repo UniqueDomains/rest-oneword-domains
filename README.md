@@ -1,10 +1,10 @@
-# Available .REST One-Word Domains (17,165)
+# Available .REST One-Word Domains (17,397)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C165%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C397%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .rest one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **17,165 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **17,397 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 17,165 domains · **Median ask:** $49.09 · **High-demand under $2,500:** 14
+**Public extract:** 1,000 rows · **Live catalog:** 17,397 domains · **Median ask:** $48.76 · **High-demand under $2,500:** 14
 
-**Last updated:** 2026-08-20
+**Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/tld/rest`
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | ball.rest    | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                     |
 | arm.rest     | premium   | $3,937.50 | —             | high           | medium | 3      | name.com                            |
 | led.rest     | available | $2.19     | $28.99        | high           | low    | 3      | namesilo                            |
-| rich.rest    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                     |
+| rose.rest    | resell    | —         | —             | high           | medium | 4      | GMO Internet, Inc. d/b/a Onamae.com |
 | boy.rest     | premium   | $393.75   | —             | medium         | low    | 3      | name.com                            |
 | RGB.rest     | available | $2.19     | $28.99        | medium         | low    | 3      | namesilo                            |
-| rose.rest    | resell    | —         | —             | high           | medium | 4      | GMO Internet, Inc. d/b/a Onamae.com |
+| shell.rest   | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.                     |
 | egg.rest     | premium   | $1,968.75 | —             | high           | low    | 3      | name.com                            |
 | sue.rest     | available | $2.19     | $28.99        | high           | low    | 3      | namesilo                            |
-| shell.rest   | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.                     |
-| end.rest     | premium   | $1,968.75 | —             | high           | low    | 3      | name.com                            |
-| tub.rest     | available | $2.19     | $28.99        | high           | low    | 3      | namesilo                            |
 | moment.rest  | resell    | —         | —             | high           | low    | 6      | GMO Internet, Inc. d/b/a Onamae.com |
+| end.rest     | premium   | $1,968.75 | $2,812.50     | medium         | low    | 3      | name.com                            |
+| tub.rest     | available | $2.19     | $28.99        | high           | low    | 3      | namesilo                            |
+| freedom.rest | resell    | —         | —             | high           | medium | 7      | Spaceship, Inc.                     |
 | gay.rest     | premium   | $787.50   | —             | high           | medium | 3      | name.com                            |
 | xvi.rest     | available | $2.19     | $28.99        | medium         | low    | 3      | namesilo                            |
-| freedom.rest | resell    | —         | —             | high           | medium | 7      | Spaceship, Inc.                     |
+| musical.rest | resell    | —         | —             | high           | low    | 7      | NAMECHEAP                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 17,165 live domains                        |
+| 1,000-row public sample | 17,397 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 14 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REST One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REST One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
