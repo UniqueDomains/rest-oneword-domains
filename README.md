@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rest one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,158 domains · **Median ask:** $44.23 · **High-demand under $2,500:** 16
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/tld/rest`
 **Best for:** founders, investors, studios
 
@@ -78,7 +78,7 @@ print(df.head())
 | egg.rest     | premium   | $1,968.75 | —             | high           | low    | 3      | name.com                            |
 | sue.rest     | available | $2.19     | $28.99        | high           | low    | 3      | namesilo                            |
 | moment.rest  | resell    | —         | —             | high           | low    | 6      | GMO Internet, Inc. d/b/a Onamae.com |
-| end.rest     | premium   | $1,968.75 | $2,812.50     | medium         | low    | 3      | name.com                            |
+| end.rest     | premium   | $2,047.50 | $2,925        | medium         | low    | 3      | namecheap                           |
 | tub.rest     | available | $2.19     | $28.99        | high           | low    | 3      | namesilo                            |
 | freedom.rest | resell    | —         | —             | high           | medium | 7      | Spaceship, Inc.                     |
 | gay.rest     | premium   | $787.50   | —             | high           | medium | 3      | name.com                            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REST One-Word Domains*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REST One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
