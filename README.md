@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rest one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,443 domains · **Median ask:** $34.51 · **High-demand under $2,500:** 14
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/rest`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| here.rest    | premium   | $393.75   | —             | high           | medium | 4      | name.com        |
-| clv.rest     | available | $1.80     | $41.98        | low            | low    | 3      | namecheap       |
-| lawyer.rest  | resell    | $19.99    | —             | medium         | low    | 6      | NAMECHEAP       |
-| ads.rest     | premium   | $787.50   | —             | high           | medium | 3      | name.com        |
-| hbo.rest     | available | $2.19     | $28.99        | high           | medium | 3      | namesilo        |
-| ball.rest    | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc. |
-| arm.rest     | premium   | $6,210    | $6,210        | low            | low    | 3      | namesilo        |
-| led.rest     | available | $2.19     | $28.99        | high           | low    | 3      | namesilo        |
-| rich.rest    | resell    | —         | —             | low            | low    | 4      | Spaceship, Inc. |
-| boy.rest     | premium   | $393.75   | —             | medium         | low    | 3      | name.com        |
-| rgb.rest     | available | $2.19     | $28.99        | medium         | low    | 3      | namesilo        |
-| freedom.rest | resell    | —         | —             | high           | medium | 7      | Spaceship, Inc. |
-| egg.rest     | premium   | $1,968.75 | —             | high           | low    | 3      | name.com        |
-| sue.rest     | available | $2.19     | $28.99        | high           | low    | 3      | namesilo        |
-| musical.rest | resell    | —         | —             | high           | low    | 7      | NAMECHEAP       |
-| end.rest     | premium   | $2,047.50 | $2,925        | medium         | low    | 3      | namecheap       |
-| tub.rest     | available | $2.19     | $28.99        | high           | low    | 3      | namesilo        |
-| gay.rest     | premium   | $787.50   | —             | high           | medium | 3      | name.com        |
-| xvi.rest     | available | $2.19     | $28.99        | low            | low    | 3      | namesilo        |
-| let.rest     | premium   | $157.50   | —             | high           | low    | 3      | name.com        |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| clv.rest      | available | $1.80     | $41.98        | low            | low    | 3      | namecheap       |
+| free.rest     | resell    | $819      | $1,170        | medium         | low    | 4      | namecheap       |
+| ads.rest      | premium   | $787.50   | —             | high           | medium | 3      | name.com        |
+| hbo.rest      | available | $2.19     | $28.99        | high           | medium | 3      | namesilo        |
+| lawyer.rest   | resell    | $19.99    | —             | medium         | low    | 6      | NAMECHEAP       |
+| arm.rest      | premium   | $6,210    | $6,210        | low            | low    | 3      | namesilo        |
+| led.rest      | available | $2.19     | $28.99        | high           | low    | 3      | namesilo        |
+| realized.rest | resell    | $2.19     | $28.99        | medium         | low    | 8      | namesilo        |
+| boy.rest      | premium   | $393.75   | —             | medium         | low    | 3      | name.com        |
+| rgb.rest      | available | $2.19     | $28.99        | medium         | low    | 3      | namesilo        |
+| ball.rest     | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc. |
+| egg.rest      | premium   | $1,968.75 | —             | high           | low    | 3      | name.com        |
+| sue.rest      | available | $2.19     | $28.99        | high           | low    | 3      | namesilo        |
+| rich.rest     | resell    | —         | —             | low            | low    | 4      | Spaceship, Inc. |
+| end.rest      | premium   | $2,047.50 | $2,925        | medium         | low    | 3      | namecheap       |
+| tub.rest      | available | $2.19     | $28.99        | high           | low    | 3      | namesilo        |
+| freedom.rest  | resell    | —         | —             | high           | medium | 7      | Spaceship, Inc. |
+| gay.rest      | premium   | $819      | $1,170        | medium         | low    | 3      | namecheap       |
+| xvi.rest      | available | $2.19     | $28.99        | low            | low    | 3      | namesilo        |
+| musical.rest  | resell    | —         | —             | high           | low    | 7      | NAMECHEAP       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REST One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REST One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
