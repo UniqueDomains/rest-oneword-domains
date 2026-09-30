@@ -1,10 +1,10 @@
-# Available .REST One-Word Domains (25,683)
+# Available .REST One-Word Domains (27,889)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C683%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C889%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .rest one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,683 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,889 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,683 domains · **Median ask:** $54.27 · **High-demand under $2,500:** 36
+**Public extract:** 1,000 rows · **Live catalog:** 27,889 domains · **Median ask:** $52.24 · **High-demand under $2,500:** 41
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/rest`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| aft.rest    | available | $1.80     | $41.98        | high           | low    | 3      | namecheap       |
-| pros.rest   | resell    | $2.19     | $28.99        | medium         | low    | 4      | Porkbun LLC     |
-| ang.rest    | premium   | $108      | $108          | high           | low    | 3      | namesilo        |
-| anu.rest    | available | $2.19     | $28.99        | medium         | low    | 3      | namesilo        |
-| rise.rest   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
-| axe.rest    | premium   | $198      | $198          | high           | low    | 3      | dynadot         |
-| ard.rest    | available | $2.19     | $28.99        | medium         | low    | 3      | namesilo        |
-| anime.rest  | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
-| bat.rest    | premium   | $409.50   | $585          | high           | low    | 3      | namecheap       |
-| chr.rest    | available | $1.25     | $26           | medium         | low    | 3      | spaceship       |
-| cosmos.rest | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc. |
-| bye.rest    | premium   | $409.50   | $585          | high           | low    | 3      | namecheap       |
-| des.rest    | available | $2.19     | $28.99        | high           | low    | 3      | namesilo        |
-| divine.rest | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc. |
-| dna.rest    | premium   | $787.50   | —             | high           | medium | 3      | name.com        |
-| fop.rest    | available | $19.99    | $46.99        | medium         | low    | 3      | name.com        |
-| robust.rest | resell    | —         | —             | high           | low    | 6      | Porkbun LLC     |
-| nun.rest    | premium   | $393.75   | —             | high           | low    | 3      | name.com        |
-| gar.rest    | available | $2.19     | $28.99        | medium         | low    | 3      | namesilo        |
-| pip.rest    | premium   | $81.90    | $117          | high           | low    | 3      | namecheap       |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| discover.rest   | premium   | $1,152    | $1,152        | high           | high   | 8      | namesilo   |
+| Spotify.rest    | available | $1.80     | $41.98        | high           | high   | 7      | namecheap  |
+| function.rest   | available | $1.25     | $26           | high           | low    | 8      | spaceship  |
+| detail.rest     | available | $2.19     | $28.99        | high           | low    | 6      | namesilo   |
+| clean.rest      | premium   | $1,152    | $1,152        | high           | low    | 5      | namesilo   |
+| lunar.rest      | premium   | $1,152    | $1,152        | high           | medium | 5      | namesilo   |
+| overnight.rest  | available | $2.19     | $28.99        | high           | low    | 9      | namesilo   |
+| making.rest     | available | $1.25     | $26           | high           | low    | 6      | spaceship  |
+| here.rest       | premium   | $576      | $576          | high           | medium | 4      | namesilo   |
+| resolved.rest   | available | $2.19     | $28.99        | high           | low    | 8      | namesilo   |
+| committed.rest  | available | $2.19     | $28.99        | high           | low    | 9      | namesilo   |
+| preference.rest | available | $25.20    | $25.20        | high           | low    | 10     | cloudflare |
+| increase.rest   | available | $1.80     | $41.98        | high           | low    | 8      | namecheap  |
+| nutella.rest    | available | $2.19     | $28.99        | high           | medium | 7      | namesilo   |
+| radio.rest      | premium   | $3,105    | $3,105        | high           | medium | 5      | namesilo   |
+| right.rest      | premium   | $108      | $108          | high           | low    | 5      | namesilo   |
+| chem.rest       | available | $2.19     | $28.99        | high           | low    | 4      | namesilo   |
+| visualise.rest  | available | $2.19     | $28.99        | high           | low    | 9      | namesilo   |
+| individual.rest | available | $2.19     | $28.99        | high           | low    | 10     | namesilo   |
+| fork.rest       | premium   | $576      | $576          | high           | low    | 4      | namesilo   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,683 live domains                        |
+| 1,000-row public sample | 27,889 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 36 high-demand names under $2,500          |
+| Basic exported fields   | 41 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REST One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REST One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
